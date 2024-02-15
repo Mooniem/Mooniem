@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Katelyn Mei 
 - 👀 I’m interested in intersections of social sciences and data science and AI algorithms. 
 - 🌱 I’m currently learning how the world should coexist with machines.
-- 💞️ I’m looking to collaborate on data ethics, AI ethics, and Human-AI interaction.
 - 📫 Please feel free to reach me at kmei@uw.edu.
 
 <!---
